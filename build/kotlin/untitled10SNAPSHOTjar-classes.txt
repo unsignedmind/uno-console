@@ -1,0 +1,1 @@
+C:\Users\Niklas.Schmidt\IdeaProjects\untitled\build\classes\kotlin\main\MainKt.class;C:\Users\Niklas.Schmidt\IdeaProjects\untitled\build\classes\kotlin\main\UnoCard.class;C:\Users\Niklas.Schmidt\IdeaProjects\untitled\build\classes\kotlin\main\UnoGame.class
